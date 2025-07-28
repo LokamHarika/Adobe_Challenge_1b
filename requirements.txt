@@ -1,0 +1,4 @@
+sentence-transformers==2.2.2
+transformers==4.29.2
+tokenizers==0.13.3
+huggingface_hub==0.10.1
